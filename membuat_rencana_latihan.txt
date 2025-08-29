@@ -4,7 +4,6 @@ Rencana Latihan
   * membuat project
     * memahami isi project
 - lathan java
-- memahami java
 - latihan laravel
 - python
 - c++
