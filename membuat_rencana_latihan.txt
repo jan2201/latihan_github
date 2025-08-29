@@ -3,5 +3,5 @@ Rencana Latihan
   * memahami sintak php
   * membuat project
 - lathan java
-- memahami java
 - latihan laravel
+- python
