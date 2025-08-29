@@ -2,6 +2,9 @@ Rencana Latihan
 - latihan php
   * memahami sintak php
   * membuat project
+    * memahami isi project
 - lathan java
 - memahami java
 - latihan laravel
+- python
+- c++
