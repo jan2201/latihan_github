@@ -2,3 +2,4 @@ Lahitah Github
 - memulai belajar github
 - mempelajari git
 - membuat form diskusi
+- membuat merge
