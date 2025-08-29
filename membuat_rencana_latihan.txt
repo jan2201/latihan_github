@@ -7,3 +7,4 @@ Rencana Latihan
 - memahami java
 - latihan laravel
 - python
+- c++
