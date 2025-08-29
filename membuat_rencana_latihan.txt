@@ -1,0 +1,6 @@
+Rencana Latihan
+- latihan php
+  * memahami sintak php
+  * membuat project
+- lathan java
+- latihan laravel
